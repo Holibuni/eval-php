@@ -1,5 +1,7 @@
 <?php
 
+// https://tpdev2025.notion.site/valuation-PHP-Logique-POO-21d4abdc974980678e45d0e458fb5e4e
+
 $lecteurs = [
   [ 'prenom' => 'Aline',   'livres_empruntes'  => 12 ],
   [ 'prenom' => 'Brahim',  'livres_empruntes'  => 5 ],
